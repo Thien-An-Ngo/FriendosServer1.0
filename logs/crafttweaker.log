@@ -1,0 +1,11 @@
+[20:38:06.217][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.21.1 production client modded with platform NeoForge
+[20:38:06.240][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[20:38:06.272][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:neoforge
+[20:38:06.277][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:common
+[20:38:06.310][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:compatibility
+[20:38:07.512][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support, provided through the CraftTweaker compatibility plugin:
+[20:38:07.513][INFO][CraftTweaker]: - 'crafttweaker' version '21.0.35', supporting mods vanilla
+[20:38:09.742][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[20:38:10.447][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[20:38:10.513][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[20:38:10.675][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully

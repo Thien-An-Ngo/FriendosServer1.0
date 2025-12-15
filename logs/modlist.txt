@@ -1,18 +1,16 @@
-Mods count: 69
+Mods count: 66
  
 jar name                                                                         | mod id (isMCreator)                          | mixin configs
 neoforge-21.1.216 (modloader)                                                    | neoforge                                     | 
 AI-Improvements-1.21-0.5.3.jar                                                   | aiimprovements                               | 
 alltheleaks-1.1.4+1.21.1-neoforge.jar                                            | alltheleaks                                  | alltheleaks.mixins.json
 architectury-13.0.8-neoforge.jar                                                 | architectury                                 | architectury.mixins.json, architectury-common.mixins.json
-baguettelib-1.21.1-NeoForge-1.1.5.jar                                            | baguettelib                                  | baguettelib.mixins.json
 balm-neoforge-1.21.1-21.0.55.jar                                                 | balm                                         | balm.neoforge.mixins.json, balm.mixins.json
     /META-INF/jarjar/kuma-api-neoforge-21.0.7+1.21.jar                           | kuma_api                                     | kuma_api.neoforge.mixins.json, kuma_api.mixins.json
 bcc-21.1.7+mc1.21.1.jar                                                          | bcc                                          | bcc.mixins.json
 bettersafebed-neoforge-1.21-16.jar                                               | bettersafebed                                | bettersafebed.mixins.json
 BHMenu-NeoForge-1.21-2.4.4.jar                                                   | bhmenu                                       | bhmenu.mixins.json
 bookshelf-neoforge-1.21.1-21.1.80.jar                                            | bookshelf                                    | bookshelf.neoforge.mixins.json, bookshelf.mixins.json
-chisel-1.21.1-NeoForge-1.2.2.jar                                                 | chisel                                       | chisel.mixins.json
 chisel-neoforge-2.0.0+mc1.21.1.jar                                               | chisel                                       | chisel.mixins.json, chisel.neoforge.mixins.json
 chisels-and-bits-neoforge-21.1.25.jar                                            | chiselsandbits                               | 
     /META-INF/jarjar/neoforge-21.1.5.jar                                         | saeculariacaudices                           | sc.mixins.json
@@ -50,7 +48,6 @@ dynview-1.21-4.0.jar                                                            
 entityculling-neoforge-1.9.4-mc1.21.1.jar                                        | entityculling                                | entityculling.mixins.json
     /META-INF/jars/TRansition-1.0.11-1.21.1-neoforge-SNAPSHOT.jar                | transition                                   | transition.mixins.json
     /META-INF/jars/TRender-1.0.10-1.21.1-neoforge-SNAPSHOT.jar                   | trender                                      | trender.mixins.json
-extrachisels-1.0.jar                                                             | extrachisels                                 | 
 fastasyncworldsave-1.21-2.6.jar                                                  | fastasyncworldsave                           | fastasyncworldsave.mixins.json
 FPSboost-1.21.1.jar                                                              | fpsboostremake                               | 
 ftb-chunks-neoforge-2101.1.13.jar                                                | ftbchunks                                    | ftbchunks-common.mixins.json
