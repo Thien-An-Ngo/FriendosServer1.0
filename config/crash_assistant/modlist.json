@@ -25,6 +25,13 @@
     "curseForgeHash": 418634412,
     "modrinthHash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
   },
+  "baguettelib-1.21.1-NeoForge-1.1.5.jar": {
+    "jarName": "baguettelib-1.21.1-NeoForge-1.1.5.jar",
+    "modId": "baguettelib",
+    "version": "1.1.5",
+    "curseForgeHash": 2986871783,
+    "modrinthHash": "f4dc59ccb7767daa4ff22a7e8b59cf937efb9cdd"
+  },
   "balm-neoforge-1.21.1-21.0.55.jar": {
     "jarName": "balm-neoforge-1.21.1-21.0.55.jar",
     "modId": "balm",
@@ -59,6 +66,20 @@
     "version": "21.1.80",
     "curseForgeHash": 3597851364,
     "modrinthHash": "04faab5a3e3fde909601145ac7dd8d806087958d"
+  },
+  "chisel-neoforge-2.0.0+mc1.21.1.jar": {
+    "jarName": "chisel-neoforge-2.0.0+mc1.21.1.jar",
+    "modId": "chisel",
+    "version": "2.0.0+mc1.21.1",
+    "curseForgeHash": 3369430390,
+    "modrinthHash": "44e432ddc1f6fa9cf05201a9aef3ae4c5784cc9d"
+  },
+  "chisels-and-bits-neoforge-21.1.25.jar": {
+    "jarName": "chisels-and-bits-neoforge-21.1.25.jar",
+    "modId": "chiselsandbits",
+    "version": "21.1.25",
+    "curseForgeHash": 2639633140,
+    "modrinthHash": "8877fbbad222a02727773865f5e76fa93829443f"
   },
   "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar": {
     "jarName": "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar",
@@ -143,6 +164,20 @@
     "version": "2.2.1",
     "curseForgeHash": 47019159,
     "modrinthHash": "b6499400aa999da3572b01aa7282d3c9c565d022"
+  },
+  "cryonicconfig-neoforge-1.0.0+mc1.21.10.jar": {
+    "jarName": "cryonicconfig-neoforge-1.0.0+mc1.21.10.jar",
+    "modId": "cryonicconfig",
+    "version": "1.0.0+mc1.21.10",
+    "curseForgeHash": 51703156,
+    "modrinthHash": "27937179df70ca2c7f359fa2af185fadc43bbb30"
+  },
+  "CTM-1.21-1.2.1+3.jar": {
+    "jarName": "CTM-1.21-1.2.1+3.jar",
+    "modId": "ctm",
+    "version": "1.21-1.2.1+3",
+    "curseForgeHash": 2872335516,
+    "modrinthHash": "284232c08d3b999f05417761a3efba9b08ba20a7"
   },
   "cupboard-1.21-2.9.jar": {
     "jarName": "cupboard-1.21-2.9.jar",
